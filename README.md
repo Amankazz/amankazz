@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amankazz](https://github.com/Amankazz)
 
-- 💬 Ask me about **Flutter, Unity 3D, AR/VR**
+- 💬 Ask me about **MERN, Flutter, Unity 3D, AR/VR**
 
 - 📫 How to reach me **master.amankr1998@gmail.com**
 
