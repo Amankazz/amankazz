@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankazz&label=Profile%20views&color=0e75b6&style=flat" alt="amankazz" /> </p>
 
-- 🔭 I’m currently working on **AR Navigation**
-
-- 🌱 I’m currently learning **MERN stack**
+- 🔭 I’m a **Full-Stack Software developer** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amankazz](https://github.com/Amankazz)
 
